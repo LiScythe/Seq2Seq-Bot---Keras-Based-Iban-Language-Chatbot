@@ -1,4 +1,4 @@
-#INTRODUCTION
+# INTRODUCTION
 This Seq2Seq (Sequence to Sequence) Bot is using Iban language. This chatbot illustrate a chatbot that built using Sequence to Sequence Learning with Attention Decoder Technique. 
 The purposed of this chatbot is to preserved Iban Language by building Iban language dialogue corpus. 
 The Iban dialogue corpus generated is in ".tsv" format. The data size used in Seq2Seq Bot is 1500 utterances.
